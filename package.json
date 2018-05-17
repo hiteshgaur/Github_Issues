@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "Admin"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "csv-write-stream": "^2.0.0",
+    "download-git-repo": "^1.0.2",
+    "fast-csv": "^2.4.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
